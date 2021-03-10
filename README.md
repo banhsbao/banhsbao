@@ -35,8 +35,6 @@
 - 🔧 &nbsp;  Docker🐳 | Firebase | Google Cloud
 
 <hr>
-
-<br/><br/>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
