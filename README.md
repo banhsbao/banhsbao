@@ -51,9 +51,6 @@
 <br>
 
 <p align="center">
-
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
 <a href="mailto:huynhbaofaker@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-huynhbaofaker@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
