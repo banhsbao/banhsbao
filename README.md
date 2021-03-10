@@ -1,6 +1,6 @@
 ### Hello World 😃😃<h2> I'm BanhsBao</h2>
 
-<img title="" src="https://media4.giphy.com/media/J1QhtD9DKSW1qPJQeH/giphy.gif" alt="Alt Text" width="312" data-align="inline">
+<img title="" src="https://media4.giphy.com/media/J1QhtD9DKSW1qPJQeH/giphy.gif" alt="Alt Text" width="150" data-align="inline">
 
 <h2> ⛅•💻 About Me </h2>
 
