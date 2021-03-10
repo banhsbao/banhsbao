@@ -40,10 +40,6 @@
 <br>
 
 <p align="center">
-
-
 <a href="mailto:huynhbaofaker@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-huynhbaofaker@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
 </p>
-
 <hr>
