@@ -32,7 +32,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  Docker🐳 | Firebase | Google Cloud
+- 🔧 &nbsp;  Docker🐳 | Firebase | Google Cloud |Flutter
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
