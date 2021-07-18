@@ -8,17 +8,21 @@
 
 - 🎓 &nbsp; Studying Software Engineering at FPT University HCMC
 
-- 🌱 &nbsp; Learning about  Full Stack Developer.
+- 🌱 &nbsp; Learning about  Full Stack Developer ( Full-time Employee Junior Software Developer at LogiGear Corporation)
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python 🐍| Java ☕| C # | C  ++| C | SQL Server
+- 💻 &nbsp; Python 🐍| Java ☕| JavaScript | C # | C  ++| C | SQL Server
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Angular | NextJS 
 
-- ✏️      Adobe AE | PTS | PR | AI | XD | PR |Davinci resolve | Unreal engine | Blender | Cinema 4D 
+- 🌱 Spring Ecosystem: Spring Data, Spring Cloud, Spring Security (JWT, OAuth2,...) Microservice Architechture
+
+- ✏️ Design tool: Adobe AE | PTS | PR | AI | XD | PR |Davinci resolve | Unreal engine | Blender | Cinema 4D 
+
+- 🤺 Figmar 
 
 <!--
 
