@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Studying Software Engineering at FPT University HCMC
 
-- 🌱 &nbsp; Learning about  Full Stack Developer ( Full-time Employee Junior Software Developer at LogiGear Corporation)
+- 🌱 &nbsp; Full Stack Developer ( Full-time Employee, Junior Software Developer at LogiGear Corporation)
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
