@@ -20,15 +20,17 @@
 
 - 🌱 Spring Ecosystem: Spring Data, Spring Cloud, Spring Security (JWT, OAuth2,...) Microservice Architechture
 
+- ☁️ Deployment: Docker🐳 | Kubernetes | Google Cloud | Helm Chart 
+
 - ✏️ Design tool: Adobe AE | PTS | PR | AI | XD | PR |Davinci resolve | Unreal engine | Blender | Cinema 4D 
 
-- 🤺 Figmar 
+- 🤺 Figmar | Adobe XD
 
 <!--
 
-- 🛢   MySQL | MongoDB
+- 🛢   MySQL | H2 | Postgres | Firebase 
 
-- 🔧   Git | Markdown | Selenium | Tidyverse
+- 🔧   Git | Markdown | Selenium 
 
 - 🖥   Illustrator| Photoshop | InDesign
 
@@ -36,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  Docker🐳 | Firebase | Google Cloud |Flutter
+- 🔧 &nbsp;  Flutter
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
