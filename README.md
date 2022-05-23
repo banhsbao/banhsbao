@@ -8,37 +8,43 @@
 
 - 🎓 &nbsp; Studying Software Engineering at FPT University HCMC
 
-- 🌱 &nbsp; Full Stack Developer ( Full-time Employee, Junior Software Developer at LogiGear Corporation)
+- 🌱 &nbsp; Full Stack Developer ( Software Developer TPP Technology)
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python 🐍| Java ☕| JavaScript | C # | C  ++| C | SQL Server
+- 💻 &nbsp; Python 🐍| Java ☕| JavaScript | C # | C  ++| C | Golang
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Angular | NextJS 
+- 🌐 &nbsp;  ReactJS | Angular | NextJS 
 
 - 🌱 Spring Ecosystem: Spring Data, Spring Cloud, Spring Security (JWT, OAuth2,...) Microservice Architechture
 
-- ☁️ Deployment: Docker🐳 | Kubernetes | Google Cloud | Helm Chart 
+- 😹 Node Framework: NestJS, Express
+
+- ☁️ Cloud Computing:  Google Cloud Computing, AWS
+
+- ⚙ Deployment: Docker🐳  | Kubernetes | Helm Chart | Jenkins | Terraform
 
 - ✏️ Design tool: Adobe AE | PTS | PR | AI | XD | PR |Davinci resolve | Unreal engine | Blender | Cinema 4D 
 
 - 🤺 Figmar | Adobe XD
 
-<!--
+<h3> Contribute ☘ </h3>
 
-- 🛢   MySQL | H2 | Postgres | Firebase 
+- ⭐ &nbsp;  Birdy Ventures Towards a digital Japan| Fullstack Developer
 
-- 🔧   Git | Markdown | Selenium 
+- ⭐ &nbsp;  MPL | DevOps
 
-- 🖥   Illustrator| Photoshop | InDesign
+- ⭐ &nbsp;  ACB Commercial Bank | Backend Developer
 
--->
+- ⭐ &nbsp;  Tacklit Deliver proactive, personalised, outcome-driven mental health care | Frontend Developer
 
-<h3>🛠 To Learn</h3>
+- ⭐ &nbsp;  Logigear CDS | Fullstack Developer
 
-- 🔧 &nbsp;  Flutter
+<h3> To learn ☘ </h3>
+
+- Expert development life cycle
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
