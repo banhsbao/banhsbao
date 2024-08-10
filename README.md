@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=banhsbao.banhsbao&style=flat-square&color=0088cc)
 
-I’m Bao, a Full Stack Developer leading the technology vision at AgestVN. 🚀
+I’m Bao, a Full Stack Developer leading the technology vision at Mesoneer. 🚀
 
 My passion is rooted in solving complex problems and pioneering first-principle thinking. With a robust foundation in Java, TypeScript, Python, and AWS, I excel in tackling challenges head-on, driven by a purpose to create meaningful impact through technology.
 
