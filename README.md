@@ -9,7 +9,7 @@ Iâ€™m Bao, a Full Stack Developer leading the technology vision at Mesoneer. ðŸš
 
 My passion is rooted in solving complex problems and pioneering first-principle thinking. With a robust foundation in Java, TypeScript, Python, and AWS, I excel in tackling challenges head-on, driven by a purpose to create meaningful impact through technology.
 
-At AgestVN, I lead diverse tech teams across Frontend, Backend, Machine Learning, and DevOps, developing scalable products from the ground up. I thrive on pushing boundaries and making a positive impact in the tech landscape.
+At Mesoneer, I lead diverse tech teams across Frontend, Backend, Machine Learning, and DevOps, developing scalable products from the ground up. I thrive on pushing boundaries and making a positive impact in the tech landscape.
 
 I am also deepening my expertise through my ongoing pursuit of a Master's and Doctorate in MSE-AI, with a focus on cloud technology and artificial intelligence. This academic journey enhances my curiosity and equips me to integrate cutting-edge advancements into practical applications.
 
